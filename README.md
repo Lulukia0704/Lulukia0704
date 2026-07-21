@@ -44,4 +44,5 @@ Let's connect and build something awesome together! 🚀
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lulukia0704&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lulukia0704_icons=true&theme=tokyonight)
