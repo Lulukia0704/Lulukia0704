@@ -1,47 +1,48 @@
-# Hi, I'm Luluk Asti 👋
+# Hi, saya Luluk Asti Qomariah 👋
 
-### 💫 About Me:
-A fresh graduate in Informatics (S.Kom) who loves turning everyday problems into practical digital solutions. I enjoy crafting web innovations—whether it's building tailored tools to simplify my own routines or developing impactful web apps that help others solve real-world problems. Always curious, driven by logic, and passionate about continuous learning!
+Lulusan S1 Teknik Informatika Universitas Muhammadiyah Sidoarjo (2026, IPK 3,88) yang berfokus pada **analisis data**.
 
-Let's connect and build something awesome together! 🚀
+## 💫 Tentang Saya
 
----
+Saya mengolah dan menganalisis data dengan Excel, SQL, dan Python (pandas), lalu menyajikannya dalam dashboard dan laporan. Saya penulis pertama artikel klasifikasi sentimen ulasan Minecraft (Naive Bayes dan Random Forest) di jurnal JATI (Sinta 4). Saya ingin menerapkan analisis data pada kasus nyata, dan terbuka untuk peluang kerja maupun magang di bidang data dan administrasi.
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luluk-asti-q/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leeviii.ya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lulukastiqomariah@gmail.com)
+## 📊 Keahlian
 
----
+**Analisis dan pembersihan data**
 
-### 💻 Tech Stack:
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Languages:**
+**Python untuk data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-**Frameworks & Libraries:**
-![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Visualisasi dan alat bantu**
 
-**Architecture & Tools:**
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+**Juga pernah memakai:** PHP, CodeIgniter 4, HTML/CSS, JavaScript, React, Tailwind CSS, REST API
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lulukia0704&show_icons=true&theme=tokyonight)
+## 📚 Publikasi
+
+**Klasifikasi Sentimen Ulasan Minecraft pada Google Play Store: Studi Komparatif Naive Bayes dan Random Forest**
+Penulis pertama. JATI Vol. 10 No. 1 (2026), Sinta 4.
+[DOI: 10.36040/jati.v10i1.16959](https://doi.org/10.36040/jati.v10i1.16959)
+
+## 📁 Proyek
+
+Proyek unggulan ada di bagian *Pinned* di atas. Kumpulan proyek Excel saya ada di [portofolio-data-analisis](https://github.com/Lulukia0704/portofolio-data-analisis).
+
+## 📫 Kontak
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lulukastiqomariah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/luluk-asti-q])
