@@ -1,6 +1,6 @@
 # Hi, saya Luluk Asti Qomariah 👋
 
-Lulusan S1 Teknik Informatika Universitas Muhammadiyah Sidoarjo (2026, IPK 3,88) yang berfokus pada **analisis data**.
+Lulusan S1 Informatika Universitas Muhammadiyah Sidoarjo (2026, IPK 3,88) yang berfokus pada **analisis data**.
 
 ## 💫 Tentang Saya
 
